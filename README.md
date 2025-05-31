@@ -28,3 +28,8 @@ HTML – Structure of the app
 CSS – Styling and layout
 
 JavaScript – Conversion logic and DOM interaction
+
+🧑‍💻 Author
+Khushi Chourasia
+B.Tech CSE | CMR University
+Email: khushichourasia0303@gmail.com
